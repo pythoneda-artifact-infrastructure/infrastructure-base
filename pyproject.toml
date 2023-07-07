@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pythoneda-artifact-infrastructure-infrastructure-base"
-version = "0.0.1a2"
+version = "0.0.1a1"
 description = "Infrastructure layer for pythoneda-artifact/infrastructure-base"
 authors = ["rydnr <github@acm-sl.org>"]
 readme = "README.md"
@@ -14,6 +14,7 @@ grpcio = "^1.41.0"
 paramiko = "^2.11.0"
 python = "^3.8"
 pythoneda-artifact-event-git-tagging = "^0.0.1a1"
+pythoneda-artifact-event-infrastructure-git-tagging = "^0.0.1a1"
 pythoneda-artifact-infrastructure-base = "^0.0.1a1"
 pythoneda-base = "^0.0.1a15"
 pythoneda-infrastructure-base = "^0.0.1a12"
