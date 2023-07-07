@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pythoneda-artifact-infrastructure-infrastructure-base"
-version = "0.0.1a1"
+version = "0.0.1a2"
 description = "Infrastructure layer for pythoneda-artifact/infrastructure-base"
 authors = ["rydnr <github@acm-sl.org>"]
 readme = "README.md"
